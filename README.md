@@ -1,5 +1,6 @@
-# RESTful-APIs
-REST APIs with Flask and Python
+# REST-APIs
+*REST APIs with Flask and Python
+
 NOTE: Tested using Postman Application (https://www.postman.com/downloads/)
 
 Simple Flask app:
