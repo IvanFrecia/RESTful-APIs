@@ -1,5 +1,6 @@
 # RESTful-APIs
 REST APIs with Flask and Python
+NOTE: Tested using Postman Application (https://www.postman.com/downloads/)
 
 Simple Flask app:
 The code in this folder includes a simple Flask app and a HTML and JavaScript file which calls the Flask app endpoints.
